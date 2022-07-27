@@ -10,7 +10,7 @@ Repositório das Minhas Resoluções de Atividades/Exercícios de Fixação da A
 
 - [x] <img src="images/logica-de-programacao-I.svg" width="25px"> *Lógica de Programação I: crie programas com Javascript e HTML*
 
-- [ ] <img src="images/logica-de-programacao-II.svg" width="25px"> *Lógica de Programação II: pratique com desenhos, animações e um jogo*
+- [X] <img src="images/logica-de-programacao-II.svg" width="25px"> *Lógica de Programação II: pratique com desenhos, animações e um jogo*
 
 ### Git e Github ###
 
